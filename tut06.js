@@ -25,3 +25,16 @@ let myobj={
 };
 console.log(myobj);
 //statck(primitive) ,heap(Non-Primitive data type)
+let myname="shivesh";
+
+myname="krishna";
+let anothername=myname;
+console.log(myname);
+console.log(anothername);
+let username1={
+    name:"shivesh",
+    age:12
+};
+let username2=username1;
+username2.name="shiveshm";
+console.log(username1);
