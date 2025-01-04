@@ -12,7 +12,7 @@ javascript
 You don't need to specify the type of a variable when declaring it. The type is determined based on the value assigned.
 
 
-
+typeof null =object;
 
 
 
@@ -24,3 +24,4 @@ let myobj={
     age:12
 };
 console.log(myobj);
+//statck(primitive) ,heap(Non-Primitive data type)
