@@ -1,11 +1,11 @@
 ///javascript Execution Context
 /*
 
--global exection format
--function execution format
--Eval Execution format
+-global exection context
+-function execution context
+-Eval Execution context
 
-two phases -memory ceartin phase
+two phases -memory creation  phase
 -execution phase
 
 
